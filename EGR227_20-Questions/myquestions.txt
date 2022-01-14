@@ -1,0 +1,50 @@
+Q:
+Is it in California?
+Q:
+Is it in Northern California?
+A:
+San Francisco
+Q:
+Do the Dodgers play there?
+A:
+Los Angeles
+Q:
+Is it super hot there?
+A:
+Bakersfield
+Q:
+Is CBU there?
+A:
+Riverside
+A:
+San Diego
+Q:
+Is it on the coast?
+Q:
+Does it rain a lot there?
+A:
+Seattle
+A:
+Miami
+Q:
+Is it called the "Big Apple"?
+A:
+New York City
+Q:
+Is it in Canada?
+Q:
+Is it on the East Coast?
+A:
+Toronto
+A:
+Quebec City
+Q:
+Is it in Europe?
+A:
+Paris
+Q:
+Is it in Australia?
+A:
+Sydney
+A:
+Detroit
